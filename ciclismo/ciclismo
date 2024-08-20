@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fishing Store - Ciclismo</title>
+    <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+    <header>
+        <img src="../imgs/logo.png" alt="Logo da Fishing Store" id="logo">
+        <h1>Fishing Store</h1>
+        <nav>
+            <ul>
+                <li><a href="../index.html">Home</a></li>
+                <li><a href="../volei/index.html">Vôlei</a></li>
+                <li><a href="../basquete/index.html">Basquete</a></li>
+                <li><a href="../tenis/index.html">Tênis</a></li>
+                <li><a href="../ciclismo/index.html">Ciclismo</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="info-esporte">
+            <h2>Sobre o Ciclismo</h2>
+            <p>O ciclismo é um esporte que envolve a utilização de bicicletas para diversas modalidades, como estrada, pista, mountain bike, entre outras. É um dos esportes mais populares e acessíveis do mundo.</p>
+            <p>Atletas famosos: Lance Armstrong, Eddy Merckx, Marianne Vos.</p>
+            <p>Campeonatos: Tour de France, Giro d'Italia, Vuelta a España.</p>
+            <a href="https://pt.wikipedia.org/wiki/Ciclismo">Mais informações sobre o Ciclismo</a>
+        </section>
+
+        <section id="produtos-esporte">
+            <h2>Produtos Disponíveis</h2>
+            <article>
+                <h3>Bicicleta de Estrada</h3>
+                <img src="../imgs/ciclismo-produto1.jpg" alt="Bicicleta de Estrada">
+                <p>Preço: R$ 5.000,00</p>
+                <p>Descrição: Bicicleta leve e aerodinâmica, ideal para competições.</p>
+                <p>Tamanhos: P, M, G</p>
+            </article>
+            <article>
+                <h3>Capacete de Ciclismo</h3>
+                <img src="../imgs/ciclismo-produto2.jpg" alt="Capacete de Ciclismo">
+                <p>Preço: R$ 300,00</p>
+                <p>Descrição: Capacete leve e ventilado, com alta resistência ao impacto.</p>
+                <p>Tamanhos: P, M, G</p>
+            </article>
+            <article>
+                <h3>Roupa de Ciclismo</h3>
+                <img src="../imgs/ciclismo-produto3.jpg" alt="Roupa de Ciclismo">
+                <p>Preço: R$ 200,00</p>
+                <p>Descrição: Roupa projetada para maior conforto e desempenho em longas distâncias.</p>
+                <p>Tamanhos: P, M, G, GG</p>
+            </article>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Fishing Store. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
